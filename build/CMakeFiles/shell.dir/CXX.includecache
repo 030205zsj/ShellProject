@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cnu/ShellProject/src/main.cpp
+shell.h
+/home/cnu/ShellProject/src/shell.h
+
+/home/cnu/ShellProject/src/shell.cpp
+shell.h
+/home/cnu/ShellProject/src/shell.h
+iostream
+-
+unistd.h
+-
+sys/wait.h
+-
+vector
+-
+sstream
+-
+fcntl.h
+-
+cstring
+-
+
+/home/cnu/ShellProject/src/shell.h
+string
+-
+vector
+-
+

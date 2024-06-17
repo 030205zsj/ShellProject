@@ -1,0 +1,3 @@
+/home/cnu/ShellProject/build/CMakeFiles/rebuild_cache.dir
+/home/cnu/ShellProject/build/CMakeFiles/edit_cache.dir
+/home/cnu/ShellProject/build/CMakeFiles/shell.dir
